@@ -8,7 +8,7 @@ The project is a continuously growing voicebank line:
 
 - **イーライ (Iirai)** — Generation 1, the original voicebank.
 - **茜音イーライ (Akane Iirai)** — Generation 2, the established updated CVVC release with a more feminine and queer expression.
-- **茜音イーライ・暁 (Akane Iirai · Akatsuki)** — Generation 3, currently in development with cleaned samples, new appends and extras, plus a new visual design.
+- **茜音イーライ・暁 (Akane Iirai · Akatsuki)** — Generation 3, currently in development with cleaned samples, new appends and extras, plus the finalized visual design.
 
 Each generation records another stage of the same voicebank's development. The project grows by accumulating new ways to hear and use the voice while keeping its earlier forms as part of the archive.
 
@@ -67,9 +67,9 @@ https://ilyaminineli.github.io/Iirai/
 
 ## Generation 3 — 茜音イーライ・暁
 
-暁 is the next recording stage of the same character and voicebank line. The planned revision includes cleaned existing material, additional appends and extras, and a new visual presentation.
+暁 is the next recording stage of the same character and voicebank line. The planned revision includes cleaned existing material, additional appends and extras, and the finalized visual presentation.
 
-The current 暁 artwork is intentionally a placeholder until the design is finalized.
+The final 暁 design artwork is already uploaded in the repository and is no longer a placeholder.
 
 ## Voice-provider context
 
@@ -81,7 +81,7 @@ The progression from イーライ to 茜音イーライ and then to 暁 is there
 
 - `assets/character/イーライ/` — Generation 1 artwork
 - `assets/character/茜音イーライ/` — Generation 2 artwork
-- `assets/character/茜音イーライ・暁/` — Generation 3 artwork / placeholders
+- `assets/character/茜音イーライ・暁/` — Generation 3 final artwork
 - `assets/promotional/` — promotional artwork
 - `assets/patterns/` — decorative patterns
 - `assets/textures/` — shared paper textures used by the site
