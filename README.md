@@ -38,7 +38,8 @@ https://ilyaminineli.github.io/Iirai/
 
 ### 茜音イーライ・暁
 
-- [GitHub Releases archive](https://github.com/ilyaminineli/Iirai/releases)
+- [GitHub Release — v3.0](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%BB%E6%9A%81)
+- [BowlRoll distribution](https://bowlroll.net/file/361799)
 - [Generation 3 profile](akane-iirai-akatsuki.html)
 
 The Generation 3 documentation is published as **v3.0**. Distribution is kept with the release archive so the repository can preserve the full generation history.
