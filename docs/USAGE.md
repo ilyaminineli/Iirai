@@ -6,7 +6,11 @@ The イーライ project is a growing Japanese CVVC voicebank family:
 
 - **イーライ** — Generation 1, the original bank.
 - **茜音イーライ** — Generation 2, the released expanded form with a more feminine and queer vocal/character expression.
-- **茜音イーライ・暁** — Generation 3, the incoming development with cleaned samples, new appends and extras.
+- **茜音イーライ・暁** — Generation 3, released as v3.0 with cleaned samples, new appends and extras.
+
+- [Character profile](../akane-iirai-akatsuki.html)
+- [GitHub Release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%BB%E6%9A%81)
+- [BowlRoll](https://bowlroll.net/file/361799)
 
 Each generation is part of the same lineage and can be understood as a different stage of the voice's growth.
 
@@ -36,11 +40,11 @@ For the original recording and distribution:
 - [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
 - [BowlRoll](https://bowlroll.net/file/349204)
 
-## Upcoming — 茜音イーライ・暁
+## Released — 茜音イーライ・暁
 
 暁 is being prepared as the next recording pass. Planned material includes cleaned samples, additional appends and extras, with the final technical configuration to be documented after the new material is complete.
 
-The current visual assets are placeholders.
+The current visual assets include the released Generation 3 icon.
 
 - [Character profile](../akane-iirai-akatsuki.html)
 
