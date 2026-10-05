@@ -1,32 +1,55 @@
 # イーライ Voicebank Line — Voicebank Specification
 
-This is the canonical technical overview of the イーライ voicebank family. The project is developed as a continuous voicebank line whose recordings, expression and presentation can grow from one generation to the next.
+This is the canonical technical overview of the イーライ voicebank family. The project is developed as a continuous voicebank line whose recordings, expression and presentation grow from one generation to the next.
 
-## Generation structure
+## Generation 1 — イーライ
 
-### Generation 1 — イーライ
-
-The original Japanese UTAU voicebank and the starting point of the project. Its vocal and visual presentation has a more masculine origin than the later generations.
+The original Japanese UTAU voicebank and the starting point of the project.
 
 - [Character profile](../iirai.html)
 - [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
 - [BowlRoll distribution](https://bowlroll.net/file/349204)
 
-### Generation 2 — 茜音イーライ
+## Generation 2 — 茜音イーライ
 
-The second generation expanded the recording and developed a softer, more feminine and less convention-bound vocal/character expression while retaining the core voice.
+The established second generation with expanded Japanese CVVC material.
 
-The released bank has three pitches: A3 / F3 / C3. It provides improved phoneme clarity, a clearer and more confident upper range, and a warm, bass-leaning core.
+- Pitches: A3 / F3 / C3
+- Optimum BPM: 70–120
+- Engine: UTAU / OpenUtau
+- Recording method: Japanese CVVC
+- Encoding: Romaji-encoded, CVVC aliased
 
 - [Character profile](../akane-iirai.html)
 - [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
 - [BowlRoll distribution](https://bowlroll.net/file/350273)
 
-### Generation 3 — 茜音イーライ・暁
+## Generation 3 — 茜音イーライ・暁
 
-The incoming third generation continues the same line with cleaned samples, new appends and extras, and a new visual design. The final technical specification will be expanded as the new recordings are completed.
+**Released as v3.0.**
+
+### Technical specification
+
+- Engine: UTAU / OpenUtau
+- Language: Japanese
+- Recording method: Japanese CVVC
+- Encoding: Romaji-encoded, CVVC aliased
+- Subbanks:
+  - `_C4` — A#3–B7
+  - `_G3` — G3–A3
+  - `_F3` — D3–F#3
+  - `_C3` — C1–C#3
+- Sample format: 44.1kHz / 16-bit
+- Approximate sample size: ~500MB
+- Additional samples and consonant releases
+- Moresampler expressions: Breathiness, Tension, Growl, etc.
+- Recommended resamplers: Moresampler, TIPS, WORLDLINE-R
+- Recommended bass setup: `g-30 MG40 Mb20`
+
+The Generation 3 release is intended for expressive Japanese vocal synthesis with natural consonant blending and a broader expressive palette.
 
 - [Character profile](../akane-iirai-akatsuki.html)
+- [Release archive](https://github.com/ilyaminineli/Iirai/releases)
 
 ## Character / Credits
 
@@ -37,21 +60,7 @@ The incoming third generation continues the same line with cleaned samples, new 
 - Illustrator: Schenchik
 - OTO / Technical: eikton
 
-The real voice provider, Ilya Minin (Eli), identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank follows that movement away from a masculine origin toward a more androgynous, fluid and personally comfortable expression.
-
-## Current released technical specification — 茜音イーライ
-
-- Engine: UTAU / OpenUtau
-- Language: Japanese
-- Recording method: CVVC
-- Encoding: Romaji-encoded, CVVC aliased
-- Pitches: A3 / F3 / C3
-- Range: G#3–D3
-- Optimum BPM: 70–120
-- Genres: Dark pop, industrial, experimental
-- Features: Consonant clarity, high end and bass
-- Primary recommendation: TIPS, especially for bass preservation
-- Other recommendations: Moresampler, WORLDLINE-R, wavtool4vcv
+The progression from イーライ to 茜音イーライ and then to 暁 is documented as continuous development of the same voicebank line.
 
 ## Moresampler expressions
 
@@ -64,10 +73,8 @@ The real voice provider, Ilya Minin (Eli), identifies as non-binary and is explo
 
 ## Voicebank characteristics
 
-The family is built around a warm, textured core with increasing access to upper-register and expressive material as the generations develop. Later generations are particularly suited to expressive phrasing, fast or rambling lines, chant-like parts and subtle glitched ad-libs.
-
-The goal is not to freeze one “correct” form of the voice. The voicebank documents a living artistic process in which vocal timbre, presentation and character expression can change over time.
+The family is built around a warm, textured core with increasing access to expressive and upper-register material as the generations develop. Generation 3 broadens the available recording and expression options while preserving the lineage of the earlier voices.
 
 ## Canonical source
 
-For released technical values, the current official manual and release documentation are authoritative. Historical information about Generation 1 remains valuable for documenting the project's origin and should be kept alongside current generation metadata.
+For released technical values, use the current generation-specific voicebank manual and release documentation. Historical information for Generation 1 and Generation 2 remains part of the archive.
