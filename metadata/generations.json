@@ -25,11 +25,26 @@
       "name": "茜音イーライ・暁",
       "romanized_name": "Akane Iirai · Akatsuki",
       "generation": 3,
-      "status": "in_development",
+      "version": "v3.0",
+      "status": "released",
       "asset_directory": "assets/character/茜音イーライ・暁",
       "profile": "akane-iirai-akatsuki.html",
-      "design_status": "placeholder",
-      "planned_additions": ["cleaned samples", "new appends", "extras", "new visual design"]
+      "design_status": "final",
+      "voice_provider": "Ilya Minin (Eli)",
+      "character_design": "Schenchik",
+      "oto_technical": "eikton",
+      "language": "Japanese",
+      "recording_method": "CVVC",
+      "subbanks": {
+        "_C4": "A#3-B7",
+        "_G3": "G3-A3",
+        "_F3": "D3-F#3",
+        "_C3": "C1-C#3"
+      },
+      "sample_format": "44.1kHz/16-bit",
+      "approximate_sample_size": "~500MB",
+      "recommended_resamplers": ["Moresampler", "TIPS", "WORLDLINE-R"],
+      "bass_setup": "g-30 MG40 Mb20"
     }
   ]
 }
