@@ -56,7 +56,7 @@ He is nicknamed 怪人ハサミ (Kaijin Hasami, “Scissor Kaijin”), a trickst
 
 The released 茜音イーライ bank is a Japanese CVVC voicebank with three pitches: A3 / F3 / C3. It has improved phoneme clarity compared with the first iteration, while preserving a warm, bass-leaning core and providing a smoother, more confident upper range.
 
-茜音イーライ・暁 is the incoming third generation. It is being prepared with cleaned samples, new appends and extras, with its detailed specification to be finalized as the new material is completed.
+茜音イーライ・暁 is the released third generation. It is being prepared with cleaned samples, new appends and extras, with its detailed specification to be finalized as the new material is completed.
 
 The voicebank family is intended for expressive phrasing, fast or rambling lines, chant-like parts, unusual character performances and subtle glitched ad-libs.
 
