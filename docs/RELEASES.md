@@ -33,6 +33,8 @@ The release includes:
 - a generation-specific visual presentation.
 
 - [Character profile](../akane-iirai-akatsuki.html)
+- [GitHub Release — v3.0](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%BB%E6%9A%81)
+- [BowlRoll distribution](https://bowlroll.net/file/361799)
 - [Release archive](https://github.com/ilyaminineli/Iirai/releases)
 
 ## Development philosophy
