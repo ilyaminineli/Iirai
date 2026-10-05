@@ -6,7 +6,7 @@ Canonical documentation for the growing three-generation イーライ voicebank 
 
 - `GEN 1` — **イーライ**: original voicebank and starting point.
 - `GEN 2` — **茜音イーライ**: released second generation with a more feminine and queer expression.
-- `GEN 3` — **茜音イーライ・暁**: incoming generation with cleaned samples, new appends and extras, and a new visual design.
+- `GEN 3` — **茜音イーライ・暁**: released v3.0 generation with cleaned samples, new appends and extras, updated configuration, and a finalized visual design.
 
 ## Website profiles
 
