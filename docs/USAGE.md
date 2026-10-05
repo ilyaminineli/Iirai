@@ -42,7 +42,11 @@ For the original recording and distribution:
 
 ## Released — 茜音イーライ・暁
 
-暁 is being prepared as the next recording pass. Planned material includes cleaned samples, additional appends and extras, with the final technical configuration to be documented after the new material is complete.
+- [Character profile](../akane-iirai-akatsuki.html)
+- [GitHub Release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%BB%E6%9A%81)
+- [BowlRoll](https://bowlroll.net/file/361799)
+
+暁 is released as v3.0. The release includes cleaned and rechecked material, additional appends and extras, and the updated configuration documented for the current generation.
 
 The current visual assets include the released Generation 3 icon.
 
