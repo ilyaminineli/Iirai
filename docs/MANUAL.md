@@ -20,9 +20,11 @@ The released second generation. The voice became clearer and more expressive whi
 
 ## Generation 3 — 茜音イーライ・暁
 
-The incoming third generation. 暁 continues the same project with cleaned samples, new appends and extras and a new visual design.
+The released third generation, **v3.0**. 暁 continues the same project with cleaned samples, new appends and extras, updated configuration and a finalized visual design.
 
 - [Character profile](../akane-iirai-akatsuki.html)
+- [BowlRoll](https://bowlroll.net/file/361799)
+- [GitHub Release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%BB%E6%9A%81)
 
 ## Character information
 
