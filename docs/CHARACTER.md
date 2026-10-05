@@ -28,7 +28,7 @@ The voicebank is also a record of that process. Its changing timbre and presenta
 
 The visual language develops with each generation. Earlier イーライ material establishes the original form; 茜音イーライ introduces a softer and more expressive presentation; 暁 pushes the silhouette further into playful, theatrical and deliberately ambiguous territory.
 
-The current 暁 artwork is provisional while the final design is being prepared.
+The current 暁 artwork is the released generation-specific icon and visual presentation.
 
 ## Personality
 
